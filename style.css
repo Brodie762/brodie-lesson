@@ -1,0 +1,107 @@
+h2{
+    color: aqua;
+}
+.ok{
+    color: blue;
+}
+#hi{
+    font-size: 40px;
+    color: rgb(21, 184, 135);
+}
+.hey{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.ko{
+color: blueviolet;
+}
+.lo{
+    color: rgb(104, 184, 157);
+}
+.po{
+    color: chartreuse;
+}
+.ha{
+    color: coral;
+}
+.ho{
+color: brown;
+}
+.he{
+color: aquamarine;
+}
+.fe{
+color: cadetblue;
+}
+.fo{
+color: darkkhaki;
+}
+.ke{
+color: honeydew;
+}
+.nike{
+    text-align: center;
+    font-size: x-large;
+}
+.nik{
+    text-align: center;
+    font-size: xx-large;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.pol{
+    position: fixed;
+    background-color:transparent;
+    width:100%;
+    text-align: center;
+    top: 0;
+}
+.polo{
+    position: fixed;
+     text-decoration:none ;
+     background-color:white;
+     width: 100%;height: 50px;
+     text-align: center;
+     top: 0;
+}
+.jol{
+    position: fixed;
+    text-decoration: none;
+    background-color:transparent;
+    width: 100%;
+    text-align: center;
+}
+.yol{
+    position: fixed;
+    text-decoration: none;
+    background-color:transparent;
+    width: 100%;
+    text-align: center;
+    top: 0;
+}
+.hol{
+    margin: 0px;
+    text-decoration: none;
+    position: fixed;
+    background-color:white;
+    width: 100%;
+    top: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+body {margin: 0;}
+.dan{
+    margin-top: 38px;
+}
+
+
+
+
+
+
+
+
+
